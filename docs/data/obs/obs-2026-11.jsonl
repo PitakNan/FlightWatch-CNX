@@ -6250,3 +6250,15 @@
 {"ts": "2026-11-16T20:34", "dir": "RET", "code": "KBV", "d": "2027-03-08", "p": 2663, "a": "ไทยเวียดเจ๊ทแอร์", "src": "gf"}
 {"ts": "2026-11-16T20:34", "dir": "OUT", "code": "KBV", "d": "2027-03-03", "p": 2165, "a": "Thai Vietjet Air", "src": "trip"}
 {"ts": "2026-11-16T20:34", "dir": "RET", "code": "KBV", "d": "2027-03-08", "p": 2420, "a": "Thai Vietjet Air", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "OUT", "code": "DMK", "d": "2027-04-29", "p": 1185, "a": "Thai AirAsia", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "RET", "code": "DMK", "d": "2027-05-03", "p": 1450, "a": "Thai AirAsia", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "OUT", "code": "BKK", "d": "2027-05-12", "p": 1465, "a": "Thai Vietjet Air", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "RET", "code": "BKK", "d": "2027-05-17", "p": 1320, "a": "Thai Vietjet Air", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "OUT", "code": "HKT", "d": "2027-04-29", "p": 2555, "a": "Thai AirAsia", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "RET", "code": "HKT", "d": "2027-05-02", "p": 4445, "a": "Thai AirAsia", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "OUT", "code": "HDY", "d": "2026-12-05", "p": 3025, "a": "Thai AirAsia", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "RET", "code": "HDY", "d": "2026-12-10", "p": 3555, "a": "Thai Vietjet Air", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "OUT", "code": "USM", "d": "2027-05-23", "p": 2735, "a": "Bangkok Airways", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "RET", "code": "USM", "d": "2027-05-26", "p": 2900, "a": "Bangkok Airways", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "OUT", "code": "KBV", "d": "2027-05-15", "p": 2334, "a": "Thai AirAsia", "src": "trip"}
+{"ts": "2026-11-17T07:32", "dir": "RET", "code": "KBV", "d": "2027-05-18", "p": 2332, "a": "Thai AirAsia", "src": "trip"}
